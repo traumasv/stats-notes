@@ -1,0 +1,44 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{enumitem}
+\title{Probabilities and Statistics}
+\author{hbp253}
+\date{January 2020}
+
+\begin{document}
+
+\maketitle
+
+\section{Likelihood vs Probability Density Functions}
+    Probability density is how likely a set of points are likely to occur given parameter x
+    \newline
+    Likelihood takes a data set and represents the likeliness of different parameters for your distribution
+
+\section{Cohen's d}
+    You can compare the difference between two groups to the variability within groups with Cohen's d:
+    \newline
+    \begin{center} 
+    $d = \dfrac{\overline{x_1} - \overline{x_2}}{S}$
+    \end{center}
+
+    S in this case would be a "pooled standard deviation". Which is a weighed variance between the means:
+    \begin{center}
+    $S = \sqrt{\dfrac{n_1 * var_1 + n_2 * var_2}{n_1 + n_2}}$
+    \end{center}
+
+\section{PMF}
+Probability Mass Function or PMF, represent the probability for each unique value. It is normalized by n (the size of the set)
+\subsection{The Class Size Paradox}
+    Let there be x number of classes for each range of class sizes,\newline
+    If each one of the student in the class is asked to count the class size,\newline
+    Then the PMF is multiplied by x again before it is normalized.\newline
+    Calculating the mean given PMF:
+    \begin{center}
+    $ \overline{x} = \sum_{i}{} p_i x_i $,
+    \end{center}
+
+\section{CDF}
+
+
+\end{document}
