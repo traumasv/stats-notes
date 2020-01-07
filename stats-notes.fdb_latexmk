@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1578426317 "c:/Users/Joey Park/learning/stats-notes/stats-notes.tex" "c:/Users/Joey Park/learning/stats-notes/stats-notes.pdf" "stats-notes" 1578426318
-  "c:/Users/Joey Park/learning/stats-notes/stats-notes.aux" 1578426318 523 23edfd56c500425055012fa3f65cf831 ""
-  "c:/Users/Joey Park/learning/stats-notes/stats-notes.tex" 1578426315 1502 04b4effdbcc7b3bbd06b7f38b40fe2a2 ""
+["pdflatex"] 1578436381 "c:/Users/Joey Park/learning/stats-notes/stats-notes.tex" "c:/Users/Joey Park/learning/stats-notes/stats-notes.pdf" "stats-notes" 1578436391
+  "c:/Users/Joey Park/learning/stats-notes/stats-notes.aux" 1578436383 523 23edfd56c500425055012fa3f65cf831 ""
+  "c:/Users/Joey Park/learning/stats-notes/stats-notes.tex" 1578436390 1743 9234cc9d2368b3661233481a541524fb ""
   "c:/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1578342384 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1578340081 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1578340081 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -39,11 +39,11 @@
   "c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1578347398 4776288 2d2cc5597a6fcea20f30605f90c09108 ""
   "c:/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1578347549 4290736 816e5809f447ab918dc0b584f3d5304e ""
   "c:/texlive/2019/texmf.cnf" 1578347357 673 4ae7b2f49cee444c5343a45b5d0f169c ""
-  "stats-notes.aux" 1578426318 523 23edfd56c500425055012fa3f65cf831 "pdflatex"
-  "stats-notes.tex" 1578426315 1502 04b4effdbcc7b3bbd06b7f38b40fe2a2 ""
+  "stats-notes.aux" 1578436383 523 23edfd56c500425055012fa3f65cf831 "pdflatex"
+  "stats-notes.tex" 1578436390 1743 9234cc9d2368b3661233481a541524fb ""
   (generated)
-  "c:/Users/Joey Park/learning/stats-notes/stats-notes.log"
   "stats-notes.aux"
-  "stats-notes.pdf"
-  "stats-notes.log"
+  "c:/Users/Joey Park/learning/stats-notes/stats-notes.log"
   "c:/Users/Joey Park/learning/stats-notes/stats-notes.pdf"
+  "stats-notes.log"
+  "stats-notes.pdf"
